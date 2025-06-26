@@ -1,0 +1,64 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html>
+<head>
+<meta http-equiv="Content-type" content="application/vnd.ms-excel; charset=UTF-8">
+<title>DesignldID250509081122</title>
+</head>
+<body>
+<table>
+	<tbody><tr>
+	<td>&nbsp;</td>
+	<td class="pinfoLb"><strong>1</strong></td>
+	<td class="pinfoLb">ID:1</td>
+	<td class="pinfoLb">&nbsp;</td>
+	<td class="pinfoLb" colspan="5">dimer(minimum)dG=-2.09</td>
+	<td class="pinfoLb">&nbsp;</td>
+	<td class="pinfoLb">&nbsp;</td>
+	<td class="pinfoLb">&nbsp;</td>
+	<td class="pinfoLb">&nbsp;</td>
+	<td class="pinfoLb">&nbsp;</td>
+	</tr>
+	<tr>
+	<td>&nbsp;</td>
+	<td class="pinfoLb">label</td>
+	<td class="pinfoLb">5'pos</td>
+	<td class="pinfoLb">3'pos</td>
+	<td class="pinfoLb">len</td>
+	<td class="pinfoLb">Tm</td>
+	<td class="pinfoLb">5'dG</td>
+	<td class="pinfoLb">3'dG</td>
+	<td class="pinfoLb">GCrate</td>
+	<td class="pinfoLb">Sequence</td>
+	</tr>
+	
+	<tr>
+	<td>&nbsp;</td>
+	<td>LF</td>
+	<td class="pinfoString">858</td>
+	<td class="pinfoString">879</td>
+	<td class="pinfoString">22</td>
+	<td class="pinfoString">61.19</td>
+	<td class="pinfoString">-4.81</td>
+	<td class="pinfoString">-4.16</td>
+	<td class="pinfoString">0.50</td>
+	<td bgcolor="#ccffcc" style="border : 1px solid #ffffff;"><span class="dnaString">
+	AGCTACTACTCCACCGAGTTTG</span></td>
+	</tr>
+	
+	<tr>
+	<td>&nbsp;</td>
+	<td>LB</td>
+	<td class="pinfoString">954</td>
+	<td class="pinfoString">975</td>
+	<td class="pinfoString">22</td>
+	<td class="pinfoString">60.27</td>
+	<td class="pinfoString">-4.41</td>
+	<td class="pinfoString">-2.73</td>
+	<td class="pinfoString">0.41</td>
+	<td bgcolor="#ccffcc" style="border : 1px solid #ffffff;"><span class="dnaString">
+	TCCAATCAGCCAATGCCTATTT</span></td>
+	</tr>
+	
+	</tbody></table>
+</body>
+</html>

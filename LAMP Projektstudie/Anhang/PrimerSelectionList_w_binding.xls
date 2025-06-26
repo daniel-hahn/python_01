@@ -1,0 +1,788 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html>
+<head>
+<meta http-equiv="Content-type" content="application/vnd.ms-excel; charset=UTF-8">
+<title>Primer Set List</TITLE>
+</head>
+<body bgcolor="#ffffff" text="#000000">
+<basefont face="Courier New">
+<table width="100%" cellpadding="0">
+<tr bgcolor="ccffcc">
+<td colspan="3" align="left">PrimerSet List</td>
+</tr>
+</table>
+<b>Primer set: sorting rule [Easy]</b>
+<table border="0" cellspacing="0" cellpadding="0">
+<tr>
+<td colspan="2"><b>Target DNA</b></td>
+<td><font color="#000000">TCAACCACTC</font></td>
+<td><font color="#000000">ATTCATCGAC</font></td>
+<td><font color="#000000">CTCCCAACAC</font></td>
+<td><font color="#000000">CATCCAATAT</font></td>
+<td><font color="#000000">CTCAGCGTGA</font></td>
+<td><font color="#000000">TGAAACTTCG</font></td>
+<td><font color="#000000">GATCCCTACT</font></td>
+<td><font color="#000000">AGGAATCTGC</font></td>
+<td><font color="#000000">TTAATCCTAC</font></td>
+<td><font color="#000000">AAATTGCAAC</font></td>
+<td><font color="#000000">AGGACTATTC</font></td>
+<td><font color="#000000">CTAGCAATAC</font></td>
+<td><font color="#000000">ACTACACATC</font></td>
+<td><font color="#000000">AGACACCACA</font></td>
+<td><font color="#000000">ACAGCATTTT</font></td>
+<td><font color="#000000">CTTCAGTCGC</font></td>
+<td><font color="#000000">ACACATCTGC</font></td>
+<td><font color="#000000">CGAGACGTAA</font></td>
+<td><font color="#000000">ACTACGGCTG</font></td>
+<td><font color="#000000">AATCATCCGG</font></td>
+<td><font color="#000000">TACCTTCACG</font></td>
+<td><font color="#000000">CCAACGGAGC</font></td>
+<td><font color="#000000">ATCCATATTC</font></td>
+<td><font color="#000000">TTCATCTGCC</font></td>
+<td><font color="#000000">TGTTCCTACA</font></td>
+<td><font color="#000000">CGCAGGACGA</font></td>
+<td><font color="#000000">GGAATCTACT</font></td>
+<td><font color="#000000">ACGGATCCTA</font></td>
+<td><font color="#000000">CACCTTTACA</font></td>
+<td><font color="#000000">GAAACATGAA</font></td>
+<td><font color="#000000">ATATTGGTAT</font></td>
+<td><font color="#000000">CATCTTACTA</font></td>
+<td><font color="#000000">CTTACAGTTA</font></td>
+<td><font color="#000000">TAGCCACTGC</font></td>
+<td><font color="#000000">TTTCATAGGA</font></td>
+<td><font color="#000000">TATGTACTCC</font></td>
+<td><font color="#000000">CATGAGGACA</font></td>
+<td><font color="#000000">AATATCCTTC</font></td>
+<td><font color="#000000">TGAGGTGCCA</font></td>
+<td><font color="#000000">CAGTAATCAC</font></td>
+<td><font color="#000000">AAACCTACTC</font></td>
+<td><font color="#000000">TCAGCAATCC</font></td>
+<td><font color="#000000">CATATATCGG</font></td>
+<td><font color="#000000">ATCCAACCTA</font></td>
+<td><font color="#000000">GTAGAATGAA</font></td>
+<td><font color="#000000">TCTGAGGCGG</font></td>
+<td><font color="#000000">CTTTTCCGTA</font></td>
+<td><font color="#000000">GACAAAGCAA</font></td>
+<td><font color="#000000">CCCTAACCCG</font></td>
+<td><font color="#000000">ATTCTTCGCA</font></td>
+<td><font color="#000000">TTCCACTTCA</font></td>
+<td><font color="#000000">TCTTACCCTT</font></td>
+<td><font color="#000000">CATCATCACA</font></td>
+<td><font color="#000000">GCACTAGCAA</font></td>
+<td><font color="#000000">TAGTTCACCT</font></td>
+<td><font color="#000000">CCTGTTCTTA</font></td>
+<td><font color="#000000">CACGAAACAG</font></td>
+<td><font color="#000000">GATCAAACAA</font></td>
+<td><font color="#000000">CCCATTAGGA</font></td>
+<td><font color="#000000">ATTAACTCAG</font></td>
+<td><font color="#000000">ACTCCGACAA</font></td>
+<td><font color="#000000">AATCCCATTC</font></td>
+<td><font color="#000000">CACCCATACT</font></td>
+<td><font color="#000000">ACACCATCAA</font></td>
+<td><font color="#000000">AGACTCCTTT</font></td>
+<td><font color="#000000">GGATTCCTAC</font></td>
+<td><font color="#000000">TCCTACTTAC</font></td>
+<td><font color="#000000">CCCACTCTTA</font></td>
+<td><font color="#000000">GCACTAGTAC</font></td>
+<td><font color="#000000">TATTCACACC</font></td>
+<td><font color="#000000">AGATCTACTA</font></td>
+<td><font color="#000000">GGAGACCCAG</font></td>
+<td><font color="#000000">ACAATTACAC</font></td>
+<td><font color="#000000">ACCAGCCAAC</font></td>
+<td><font color="#000000">CCCCTAAACA</font></td>
+<td><font color="#000000">CACCACCACA</font></td>
+<td><font color="#000000">CATTAAACCA</font></td>
+<td><font color="#000000">GAATGATACT</font></td>
+<td><font color="#000000">TCCTATTCGC</font></td>
+<td><font color="#000000">ATACGCAATC</font></td>
+<td><font color="#000000">CTACGATCCA</font></td>
+<td><font color="#000000">TCCCCAACAA</font></td>
+<td><font color="#000000">ACTCGGTGGA</font></td>
+<td><font color="#000000">GTAGTAGCTC</font></td>
+<td><font color="#000000">TCATGCTATC</font></td>
+<td><font color="#000000">AATCCTAGTC</font></td>
+<td><font color="#000000">CTAGCAGCCT</font></td>
+<td><font color="#000000">TCCCACTCCT</font></td>
+<td><font color="#000000">CCATACATCA</font></td>
+<td><font color="#000000">AAACAACGAA</font></td>
+<td><font color="#000000">GCCTAATATT</font></td>
+<td><font color="#000000">CCGTCCAATC</font></td>
+<td><font color="#000000">AGCCAATGCC</font></td>
+<td><font color="#000000">TATTTTGAAC</font></td>
+<td><font color="#000000">ACTAACTGCA</font></td>
+<td><font color="#000000">GACCTTCTCA</font></td>
+<td><font color="#000000">CCTTAACATG</font></td>
+<td><font color="#000000">AATCGGCGGA</font></td>
+<td><font color="#000000">CAACCCGTTG</font></td>
+<td><font color="#000000">AACCCCCATT</font></td>
+</tr>
+<tr>
+<td colspan="2"><b>(Complement)</b></td>
+<td><font color="#000000">agttggtgag</font></td>
+<td><font color="#000000">taagtagctg</font></td>
+<td><font color="#000000">gagggttgtg</font></td>
+<td><font color="#000000">gtaggttata</font></td>
+<td><font color="#000000">gagtcgcact</font></td>
+<td><font color="#000000">actttgaagc</font></td>
+<td><font color="#000000">ctagggatga</font></td>
+<td><font color="#000000">tccttagacg</font></td>
+<td><font color="#000000">aattaggatg</font></td>
+<td><font color="#000000">tttaacgttg</font></td>
+<td><font color="#000000">tcctgataag</font></td>
+<td><font color="#000000">gatcgttatg</font></td>
+<td><font color="#000000">tgatgtgtag</font></td>
+<td><font color="#000000">tctgtggtgt</font></td>
+<td><font color="#000000">tgtcgtaaaa</font></td>
+<td><font color="#000000">gaagtcagcg</font></td>
+<td><font color="#000000">tgtgtagacg</font></td>
+<td><font color="#000000">gctctgcatt</font></td>
+<td><font color="#000000">tgatgccgac</font></td>
+<td><font color="#000000">ttagtaggcc</font></td>
+<td><font color="#000000">atggaagtgc</font></td>
+<td><font color="#000000">ggttgcctcg</font></td>
+<td><font color="#000000">taggtataag</font></td>
+<td><font color="#000000">aagtagacgg</font></td>
+<td><font color="#000000">acaaggatgt</font></td>
+<td><font color="#000000">gcgtcctgct</font></td>
+<td><font color="#000000">ccttagatga</font></td>
+<td><font color="#000000">tgcctaggat</font></td>
+<td><font color="#000000">gtggaaatgt</font></td>
+<td><font color="#000000">ctttgtactt</font></td>
+<td><font color="#000000">tataaccata</font></td>
+<td><font color="#000000">gtagaatgat</font></td>
+<td><font color="#000000">gaatgtcaat</font></td>
+<td><font color="#000000">atcggtgacg</font></td>
+<td><font color="#000000">aaagtatcct</font></td>
+<td><font color="#000000">atacatgagg</font></td>
+<td><font color="#000000">gtactcctgt</font></td>
+<td><font color="#000000">ttataggaag</font></td>
+<td><font color="#000000">actccacggt</font></td>
+<td><font color="#000000">gtcattagtg</font></td>
+<td><font color="#000000">tttggatgag</font></td>
+<td><font color="#000000">agtcgttagg</font></td>
+<td><font color="#000000">gtatatagcc</font></td>
+<td><font color="#000000">taggttggat</font></td>
+<td><font color="#000000">catcttactt</font></td>
+<td><font color="#000000">agactccgcc</font></td>
+<td><font color="#000000">gaaaaggcat</font></td>
+<td><font color="#000000">ctgtttcgtt</font></td>
+<td><font color="#000000">gggattgggc</font></td>
+<td><font color="#000000">taagaagcgt</font></td>
+<td><font color="#000000">aaggtgaagt</font></td>
+<td><font color="#000000">agaatgggaa</font></td>
+<td><font color="#000000">gtagtagtgt</font></td>
+<td><font color="#000000">cgtgatcgtt</font></td>
+<td><font color="#000000">atcaagtgga</font></td>
+<td><font color="#000000">ggacaagaat</font></td>
+<td><font color="#000000">gtgctttgtc</font></td>
+<td><font color="#000000">ctagtttgtt</font></td>
+<td><font color="#000000">gggtaatcct</font></td>
+<td><font color="#000000">taattgagtc</font></td>
+<td><font color="#000000">tgaggctgtt</font></td>
+<td><font color="#000000">ttagggtaag</font></td>
+<td><font color="#000000">gtgggtatga</font></td>
+<td><font color="#000000">tgtggtagtt</font></td>
+<td><font color="#000000">tctgaggaaa</font></td>
+<td><font color="#000000">cctaaggatg</font></td>
+<td><font color="#000000">aggatgaatg</font></td>
+<td><font color="#000000">gggtgagaat</font></td>
+<td><font color="#000000">cgtgatcatg</font></td>
+<td><font color="#000000">ataagtgtgg</font></td>
+<td><font color="#000000">tctagatgat</font></td>
+<td><font color="#000000">cctctgggtc</font></td>
+<td><font color="#000000">tgttaatgtg</font></td>
+<td><font color="#000000">tggtcggttg</font></td>
+<td><font color="#000000">ggggatttgt</font></td>
+<td><font color="#000000">gtggtggtgt</font></td>
+<td><font color="#000000">gtaatttggt</font></td>
+<td><font color="#000000">cttactatga</font></td>
+<td><font color="#000000">aggataagcg</font></td>
+<td><font color="#000000">tatgcgttag</font></td>
+<td><font color="#000000">gatgctaggt</font></td>
+<td><font color="#000000">aggggttgtt</font></td>
+<td><font color="#000000">tgagccacct</font></td>
+<td><font color="#000000">catcatcgag</font></td>
+<td><font color="#000000">agtacgatag</font></td>
+<td><font color="#000000">ttaggatcag</font></td>
+<td><font color="#000000">gatcgtcgga</font></td>
+<td><font color="#000000">agggtgagga</font></td>
+<td><font color="#000000">ggtatgtagt</font></td>
+<td><font color="#000000">tttgttgctt</font></td>
+<td><font color="#000000">cggattataa</font></td>
+<td><font color="#000000">ggcaggttag</font></td>
+<td><font color="#000000">tcggttacgg</font></td>
+<td><font color="#000000">ataaaacttg</font></td>
+<td><font color="#000000">tgattgacgt</font></td>
+<td><font color="#000000">ctggaagagt</font></td>
+<td><font color="#000000">ggaattgtac</font></td>
+<td><font color="#000000">ttagccgcct</font></td>
+<td><font color="#000000">gttgggcaac</font></td>
+<td><font color="#000000">ttgggggtaa</font></td>
+</tr>
+<tr>
+<td colspan="2"><b>CONSENSUS(*)</b></td>
+<td><font color="#000000">**********</font></td>
+<td><font color="#000000">**********</font></td>
+<td><font color="#000000">**********</font></td>
+<td><font color="#000000">**********</font></td>
+<td><font color="#000000">**********</font></td>
+<td><font color="#000000">**********</font></td>
+<td><font color="#000000">**********</font></td>
+<td><font color="#000000">**********</font></td>
+<td><font color="#000000">**********</font></td>
+<td><font color="#000000">**********</font></td>
+<td><font color="#000000">**********</font></td>
+<td><font color="#000000">**********</font></td>
+<td><font color="#000000">**********</font></td>
+<td><font color="#000000">**********</font></td>
+<td><font color="#000000">**********</font></td>
+<td><font color="#000000">**********</font></td>
+<td><font color="#000000">**********</font></td>
+<td><font color="#000000">********-*</font></td>
+<td><font color="#000000">**********</font></td>
+<td><font color="#000000">**********</font></td>
+<td><font color="#000000">**********</font></td>
+<td><font color="#000000">**********</font></td>
+<td><font color="#000000">**********</font></td>
+<td><font color="#000000">**********</font></td>
+<td><font color="#000000">**********</font></td>
+<td><font color="#000000">**********</font></td>
+<td><font color="#000000">**********</font></td>
+<td><font color="#000000">**********</font></td>
+<td><font color="#000000">**********</font></td>
+<td><font color="#000000">**********</font></td>
+<td><font color="#000000">**********</font></td>
+<td><font color="#000000">***-******</font></td>
+<td><font color="#000000">****-*****</font></td>
+<td><font color="#000000">**********</font></td>
+<td><font color="#000000">**********</font></td>
+<td><font color="#000000">**********</font></td>
+<td><font color="#000000">**********</font></td>
+<td><font color="#000000">**********</font></td>
+<td><font color="#000000">**********</font></td>
+<td><font color="#000000">**********</font></td>
+<td><font color="#000000">**********</font></td>
+<td><font color="#000000">**********</font></td>
+<td><font color="#000000">**********</font></td>
+<td><font color="#000000">**********</font></td>
+<td><font color="#000000">**********</font></td>
+<td><font color="#000000">**********</font></td>
+<td><font color="#000000">**********</font></td>
+<td><font color="#000000">**********</font></td>
+<td><font color="#000000">**********</font></td>
+<td><font color="#000000">**********</font></td>
+<td><font color="#000000">**********</font></td>
+<td><font color="#000000">**********</font></td>
+<td><font color="#000000">**********</font></td>
+<td><font color="#000000">**********</font></td>
+<td><font color="#000000">-*********</font></td>
+<td><font color="#000000">***-******</font></td>
+<td><font color="#000000">**********</font></td>
+<td><font color="#000000">**********</font></td>
+<td><font color="#000000">**********</font></td>
+<td><font color="#000000">**********</font></td>
+<td><font color="#000000">**********</font></td>
+<td><font color="#000000">**********</font></td>
+<td><font color="#000000">**********</font></td>
+<td><font color="#000000">**********</font></td>
+<td><font color="#000000">**********</font></td>
+<td><font color="#000000">**********</font></td>
+<td><font color="#000000">**********</font></td>
+<td><font color="#000000">**********</font></td>
+<td><font color="#000000">**********</font></td>
+<td><font color="#000000">*****-****</font></td>
+<td><font color="#000000">**********</font></td>
+<td><font color="#000000">**********</font></td>
+<td><font color="#000000">**********</font></td>
+<td><font color="#000000">**********</font></td>
+<td><font color="#000000">**********</font></td>
+<td><font color="#000000">**********</font></td>
+<td><font color="#000000">**********</font></td>
+<td><font color="#000000">**********</font></td>
+<td><font color="#000000">**********</font></td>
+<td><font color="#000000">**********</font></td>
+<td><font color="#000000">**********</font></td>
+<td><font color="#000000">**********</font></td>
+<td><font color="#000000">**********</font></td>
+<td><font color="#000000">**********</font></td>
+<td><font color="#000000">**********</font></td>
+<td><font color="#000000">**********</font></td>
+<td><font color="#000000">**********</font></td>
+<td><font color="#000000">**********</font></td>
+<td><font color="#000000">***-******</font></td>
+<td><font color="#000000">**********</font></td>
+<td><font color="#000000">**********</font></td>
+<td><font color="#000000">**********</font></td>
+<td><font color="#000000">**********</font></td>
+<td><font color="#000000">*********-</font></td>
+<td><font color="#000000">**********</font></td>
+<td><font color="#000000">**********</font></td>
+<td><font color="#000000">**********</font></td>
+<td><font color="#000000">**********</font></td>
+<td><font color="#000000">**********</font></td>
+<td><font color="#000000">**********</font></td>
+</tr>
+<tr>
+<td nowrap>Primer ID</td>
+<td nowrap>dG<font size="-1">(dimer)</font></td>
+<td align="left">41</td>
+<td align="left">51</td>
+<td align="left">61</td>
+<td align="left">71</td>
+<td align="left">81</td>
+<td align="left">91</td>
+<td align="left">101</td>
+<td align="left">111</td>
+<td align="left">121</td>
+<td align="left">131</td>
+<td align="left">141</td>
+<td align="left">151</td>
+<td align="left">161</td>
+<td align="left">171</td>
+<td align="left">181</td>
+<td align="left">191</td>
+<td align="left">201</td>
+<td align="left">211</td>
+<td align="left">221</td>
+<td align="left">231</td>
+<td align="left">241</td>
+<td align="left">251</td>
+<td align="left">261</td>
+<td align="left">271</td>
+<td align="left">281</td>
+<td align="left">291</td>
+<td align="left">301</td>
+<td align="left">311</td>
+<td align="left">321</td>
+<td align="left">331</td>
+<td align="left">341</td>
+<td align="left">351</td>
+<td align="left">361</td>
+<td align="left">371</td>
+<td align="left">381</td>
+<td align="left">391</td>
+<td align="left">401</td>
+<td align="left">411</td>
+<td align="left">421</td>
+<td align="left">431</td>
+<td align="left">441</td>
+<td align="left">451</td>
+<td align="left">461</td>
+<td align="left">471</td>
+<td align="left">481</td>
+<td align="left">491</td>
+<td align="left">501</td>
+<td align="left">511</td>
+<td align="left">521</td>
+<td align="left">531</td>
+<td align="left">541</td>
+<td align="left">551</td>
+<td align="left">561</td>
+<td align="left">571</td>
+<td align="left">581</td>
+<td align="left">591</td>
+<td align="left">601</td>
+<td align="left">611</td>
+<td align="left">621</td>
+<td align="left">631</td>
+<td align="left">641</td>
+<td align="left">651</td>
+<td align="left">661</td>
+<td align="left">671</td>
+<td align="left">681</td>
+<td align="left">691</td>
+<td align="left">701</td>
+<td align="left">711</td>
+<td align="left">721</td>
+<td align="left">731</td>
+<td align="left">741</td>
+<td align="left">751</td>
+<td align="left">761</td>
+<td align="left">771</td>
+<td align="left">781</td>
+<td align="left">791</td>
+<td align="left">801</td>
+<td align="left">811</td>
+<td align="left">821</td>
+<td align="left">831</td>
+<td align="left">841</td>
+<td align="left">851</td>
+<td align="left">861</td>
+<td align="left">871</td>
+<td align="left">881</td>
+<td align="left">891</td>
+<td align="left">901</td>
+<td align="left">911</td>
+<td align="left">921</td>
+<td align="left">931</td>
+<td align="left">941</td>
+<td align="left">951</td>
+<td align="left">961</td>
+<td align="left">971</td>
+<td align="left">981</td>
+<td align="left">991</td>
+<td align="left">1001</td>
+<td align="left">1011</td>
+<td align="left">1021</td>
+<td align="left">1031</td>
+</tr>
+<tr>
+<td>[19]</td>
+<td align="left">-2.00</td>
+<td><span class="dnaString">[19]</span></td>
+<td>&nbsp;&nbsp;<span class="dnaString" style="color:#00FF00;">TCATCGAC</span></td>
+<td><span class="dnaString" style="color:#00FF00;">CTCCCAACAC</span></td>
+<td>&nbsp;&nbsp;&nbsp;&nbsp;<span class="dnaString" style="color:#0000FF;">CAATAT</span></td>
+<td><span class="dnaString" style="color:#0000FF;">CTCAGCGTGA</span></td>
+<td><span class="dnaString" style="color:#0000FF;">TGAAAC</span></td>
+<td></td>
+<td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span class="dnaString" style="color:#000000;">agacg</span></td>
+<td><span class="dnaString" style="color:#000000;">aattaggatg</span></td>
+<td><span class="dnaString" style="color:#000000;">tttaacgttg</span></td>
+<td></td>
+<td></td>
+<td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span class="dnaString" style="color:#000000;">CATC</span></td>
+<td><span class="dnaString" style="color:#000000;">AGACACCACA</span></td>
+<td><span class="dnaString" style="color:#000000;">ACAGCA</span></td>
+<td></td>
+<td></td>
+<td></td>
+<td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span class="dnaString" style="color:#0000FF;">cgac</span></td>
+<td><span class="dnaString" style="color:#0000FF;">ttagtaggcc</span></td>
+<td><span class="dnaString" style="color:#0000FF;">atgg</span></td>
+<td>&nbsp;<span class="dnaString" style="color:#00FF00;">gttgcctcg</span></td>
+<td><span class="dnaString" style="color:#00FF00;">taggtataag</span></td>
+<td><span class="dnaString">[19]</span></td></tr>
+<tr>
+<td>[55]</td>
+<td align="left">-2.32</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td><span class="dnaString">[55]</span></td>
+<td>&nbsp;&nbsp;&nbsp;<span class="dnaString" style="color:#00FF00;">GCAATAC</span></td>
+<td><span class="dnaString" style="color:#00FF00;">ACTACACATC</span></td>
+<td><span class="dnaString" style="color:#00FF00;">AGACA</span><span class="dnaString" style="color:#0000FF;">CCACA</span></td>
+<td><span class="dnaString" style="color:#0000FF;">ACAGCATTTT</span></td>
+<td><span class="dnaString" style="color:#0000FF;">CTTCAG</span></td>
+<td></td>
+<td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span class="dnaString" style="color:#000000;">t</span></td>
+<td><span class="dnaString" style="color:#000000;">tgatgccgac</span></td>
+<td><span class="dnaString" style="color:#000000;">ttagtaggcc</span></td>
+<td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span class="dnaString" style="color:#000000;">CG</span></td>
+<td><span class="dnaString" style="color:#000000;">CCAACGGAGC</span></td>
+<td><span class="dnaString" style="color:#000000;">ATCCATAT</span></td>
+<td></td>
+<td></td>
+<td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span class="dnaString" style="color:#0000FF;">ct</span></td>
+<td><span class="dnaString" style="color:#0000FF;">ccttagatga</span></td>
+<td><span class="dnaString" style="color:#0000FF;">tgcctagg</span>&nbsp;<span class="dnaString" style="color:#00FF00;">t</span></td>
+<td><span class="dnaString" style="color:#00FF00;">gtggaaatgt</span></td>
+<td><span class="dnaString" style="color:#00FF00;">ctttgtactt</span></td>
+<td><span class="dnaString" style="color:#00FF00;">t</span></td>
+<td><span class="dnaString">[55]</span></td></tr>
+<tr>
+<td>[173]</td>
+<td align="left">-1.85</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td><span class="dnaString">[173]</span></td>
+<td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span class="dnaString" style="color:#00FF00;">AC</span></td>
+<td><span class="dnaString" style="color:#00FF00;">CCCACTCTTA</span></td>
+<td><span class="dnaString" style="color:#00FF00;">GCACTAG</span></td>
+<td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span class="dnaString" style="color:#0000FF;">CACC</span></td>
+<td><span class="dnaString" style="color:#0000FF;">AGATCTACTA</span></td>
+<td><span class="dnaString" style="color:#0000FF;">GGAGACC</span></td>
+<td></td>
+<td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span class="dnaString" style="color:#000000;">gttg</span></td>
+<td><span class="dnaString" style="color:#000000;">ggggatttgt</span></td>
+<td><span class="dnaString" style="color:#000000;">gtggtgg</span></td>
+<td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span class="dnaString" style="color:#000000;">AACCA</span></td>
+<td><span class="dnaString" style="color:#000000;">GAATGATACT</span></td>
+<td><span class="dnaString" style="color:#000000;">TCCTATTCGC</span></td>
+<td></td>
+<td></td>
+<td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span class="dnaString" style="color:#0000FF;">gtt</span></td>
+<td><span class="dnaString" style="color:#0000FF;">tgagccacct</span></td>
+<td><span class="dnaString" style="color:#0000FF;">catcatc</span><span class="dnaString" style="color:#00FF00;">gag</span></td>
+<td><span class="dnaString" style="color:#00FF00;">agtacgatag</span></td>
+<td><span class="dnaString" style="color:#00FF00;">ttaggatca</span></td>
+<td><span class="dnaString">[173]</span></td></tr>
+<tr>
+<td>[198]</td>
+<td align="left">-1.57</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td><span class="dnaString">[198]</span></td>
+<td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span class="dnaString" style="color:#00FF00;">AACA</span></td>
+<td><span class="dnaString" style="color:#00FF00;">CACCACCACA</span></td>
+<td><span class="dnaString" style="color:#00FF00;">CATT</span>&nbsp;&nbsp;&nbsp;&nbsp;<span class="dnaString" style="color:#0000FF;">CA</span></td>
+<td><span class="dnaString" style="color:#0000FF;">GAATGATACT</span></td>
+<td><span class="dnaString" style="color:#0000FF;">TCCTATTCGC</span></td>
+<td></td>
+<td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span class="dnaString" style="color:#000000;">gt</span></td>
+<td><span class="dnaString" style="color:#000000;">aggggttgtt</span></td>
+<td><span class="dnaString" style="color:#000000;">tgagccac</span></td>
+<td>&nbsp;&nbsp;<span class="dnaString" style="color:#000000;">AGTAGCTC</span></td>
+<td><span class="dnaString" style="color:#000000;">TCATGCTATC</span></td>
+<td><span class="dnaString" style="color:#000000;">AATCCT</span></td>
+<td></td>
+<td></td>
+<td></td>
+<td>&nbsp;&nbsp;<span class="dnaString" style="color:#0000FF;">tgttgctt</span></td>
+<td><span class="dnaString" style="color:#0000FF;">cggattataa</span></td>
+<td><span class="dnaString" style="color:#0000FF;">ggc</span>&nbsp;&nbsp;&nbsp;&nbsp;<span class="dnaString" style="color:#00FF00;">tag</span></td>
+<td><span class="dnaString" style="color:#00FF00;">tcggttacgg</span></td>
+<td><span class="dnaString" style="color:#00FF00;">ataaaac</span></td>
+<td><span class="dnaString">[198]</span></td></tr>
+<tr>
+<td>[222]</td>
+<td align="left">-1.68</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td><span class="dnaString">[222]</span></td>
+<td><span class="dnaString" style="color:#00FF00;">TCCTATTCGC</span></td>
+<td><span class="dnaString" style="color:#00FF00;">ATACGCAAT</span><span class="dnaString" style="color:#0000FF;">C</span></td>
+<td><span class="dnaString" style="color:#0000FF;">CTACGATCCA</span></td>
+<td><span class="dnaString" style="color:#0000FF;">TCCCCAA</span></td>
+<td></td>
+<td></td>
+<td>&nbsp;&nbsp;&nbsp;&nbsp;<span class="dnaString" style="color:#000000;">cgatag</span></td>
+<td><span class="dnaString" style="color:#000000;">ttaggatcag</span></td>
+<td><span class="dnaString" style="color:#000000;">gatcgtcg</span></td>
+<td></td>
+<td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span class="dnaString" style="color:#000000;">CA</span></td>
+<td><span class="dnaString" style="color:#000000;">AAACAACGAA</span></td>
+<td><span class="dnaString" style="color:#000000;">GCCTAATATT</span></td>
+<td><span class="dnaString" style="color:#000000;">CCG</span></td>
+<td></td>
+<td></td>
+<td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span class="dnaString" style="color:#0000FF;">acgt</span></td>
+<td><span class="dnaString" style="color:#0000FF;">ctggaagagt</span></td>
+<td><span class="dnaString" style="color:#0000FF;">ggaa</span>&nbsp;&nbsp;<span class="dnaString" style="color:#00FF00;">gtac</span></td>
+<td><span class="dnaString" style="color:#00FF00;">ttagccgcct</span></td>
+<td><span class="dnaString" style="color:#00FF00;">gttg</span></td>
+<td><span class="dnaString">[222]</span></td></tr>
+</table>
+<hr>
+[outputs: 5 sets]&nbsp;&nbsp;
+Displayed 1 - 5.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<EM>DesignId 250509080048</EM>
+</body>
+</html>
