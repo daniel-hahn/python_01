@@ -2,7 +2,7 @@ import numpy as np
 import matplotlib.pyplot as plt
 import xarray as xr
 import pandas as pd
-from config10_best import *  # Import all constants and variables
+from config import *  # Import all constants and variables
 import pvlib
 
 # Load weather data
