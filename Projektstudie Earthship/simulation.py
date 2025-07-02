@@ -2,7 +2,7 @@ import numpy as np
 import matplotlib.pyplot as plt
 import xarray as xr
 import pandas as pd
-from config import *  # Import all constants and variables
+from config10_best import *  # Import all constants and variables
 import pvlib
 
 # Load weather data
@@ -86,17 +86,17 @@ for t in range(1, total_steps):
     w_Rs_i = 1 / (h_ri + h_ci)                                          # wall
     w_Rs_e = 1 / (h_re_green_wall + h_ce_green_wall)                    # wall
     w_U_ges = 1 / (w_Rs_i + w_s1_R + w_s2_R + w_s3_R + w_s4_R + w_Rs_e) # wall
-    w_U_ges_sum += w_U_ges_sum
+    w_U_ges_sum += w_U_ges
 
     d_Rs_i = 1 / (h_ri + h_ci)                                          # roof
     d_Rs_e = 1 / (h_re_green_wall + h_ce_green_wall)                    # roof
     d_U_ges = 1 / (d_Rs_i + d_s1_R + d_s2_R + d_s3_R + d_s4_R + d_Rs_e) # roof 
-    d_U_ges_sum += d_U_ges_sum
+    d_U_ges_sum += d_U_ges
 
     b_Rs_i = 1 / (h_ri + h_ci)                                          # floor
     b_Rs_e = 1 / (h_re_green_wall + h_ce_green_wall)                    # floor
     b_U_ges = 1 / (b_Rs_i + b_s1_R + b_s2_R + b_s3_R + b_Rs_e)          # floor
-    b_U_ges_sum += b_U_ges_sum
+    b_U_ges_sum += b_U_ges
 
     #H_T = w_U_ges * (w_A_n * w_F_n + w_A_o * w_F_o + w_A_w * w_F_w) + b_U_ges * b_A * b_F + d_U_ges * d_A + f_U_ges * f_A_s + delta_U_WB * A_huell
     #H_T_spezif = H_T / A_huell
@@ -142,7 +142,7 @@ for t in range(1, total_steps):
     
     net_heat_flow = Q_solar_direct_useful + Q_solar_mass_released + internal_heat - Q_vent - transmission_heat_loss # Watt
     if (net_heat_flow < 0):
-        H_T_total = H_T_total + net_heat_flow # Wh
+        H_T_total += abs(net_heat_flow) # Wh
 
     # store variables for plots
     Q_solar_direct_useful_plot[t] = Q_solar_direct_useful
@@ -166,10 +166,12 @@ d_U_ges_average = d_U_ges_sum/ total_steps
 b_U_ges_average = b_U_ges_sum/ total_steps
 A_bez = laenge_wohnflaeche * breite_wohnflaeche
 H_T_spec = ((w_U_ges_average * w_A_ges + d_U_ges_average * d_A + b_U_ges_average * b_A + f_U_ges * f_A_s)/ A_bez) + delta_U_WB
-print ("H_T' (W/(m^2*K)):" + str(H_T_spec))
+print ("H_T' (W/(m^2*K)):" + str(float(H_T_spec)))
 
-# H_T calc
+# H_T and Q_H calc
 print ("H_T (kWh):" + str(float(H_T_total/1000)))
+Q_H = H_T_total /1000 /A_bez  # kWh/m²·a
+print ("Q_H (kWh/m^2*a):" + str(float((Q_H))))
 
 # TAI^2 and SAKZ result
 print("TAI^2: " + str(TAI2))
